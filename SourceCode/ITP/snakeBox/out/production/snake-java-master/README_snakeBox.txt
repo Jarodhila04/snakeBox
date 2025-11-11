@@ -1,4 +1,4 @@
-SnakeBox – README (Deutsch)
+SnakeBox – README 
 
 SnakeBox ist ein modernisiertes Snake-Spiel, das in Java mit Swing
 entwickelt wurde.
